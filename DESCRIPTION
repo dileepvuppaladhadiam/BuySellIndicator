@@ -1,0 +1,11 @@
+Package: BuySellIndicator
+Type: Package
+Title: Creation of buy/sell indicator using Technical Analysis 
+Version: 0.1.0
+Author: Dileep Vuppaladhadiam, Sulekha Aloorravi
+Maintainer: Dileep Vuppaladhadiam <vdileep.in@gmail.com>, Sulekha Aloorravi <sulekha.aloorravi@gmail.com>
+Description: This package creates buy/sell indicator using Daily Stock quotes
+License: GPL-2
+LazyData: false
+Imports: dplyr
+Suggests: dplyr
