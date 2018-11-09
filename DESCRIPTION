@@ -8,4 +8,3 @@ Description: This package creates buy/sell indicator using Daily Stock quotes
 License: GPL-2
 LazyData: false
 Imports: dplyr
-Suggests: dplyr
