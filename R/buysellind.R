@@ -1,5 +1,5 @@
 #' @title Creation of buy/sell indicator using Technical Analysis
-#' @author Dileep Vuppaladhadiam
+#' @author Dileep Vuppaladhadiam, Sulekha Aloorravi
 #' @description This package creates buy/sell indicator using Daily Stock quotes
 #' @param (data, n)
 #' @examples buysellind(mydata, 14)
